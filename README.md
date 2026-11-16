@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://store.steampowered.com/app/4426320/AikoMate/">AikoMate on Steam</a> ·
   <a href="https://aikomate.com/">Website</a> ·
+  <a href="#a-look-around-your-desktop">Screenshots</a> ·
   <a href="#meet-your-companions">Characters</a> ·
   <a href="#conversations-with-personality">Conversations</a> ·
   <a href="#choose-your-ai-and-voice">AI & voice</a> ·
@@ -25,9 +26,22 @@ AikoMate brings **VRM 3D and Live2D characters** onto your desktop as companions
 
 They can react, remember shared moments, notice context you choose to share, and spend time beside you while you work, study, browse, or play.
 
-> **About this repository:** This is the public introduction and media showcase for AikoMate. **Application source code and installers have not been published in this repository yet.** The guide below covers the full desktop project; the later source release may have a different scope. Availability varies by app build, operating system, model, account access, and purchased features. The newest development additions are identified below.
+> **ℹ️ About this repository:** This is the public introduction and media showcase for AikoMate. **Application source code and installers have not been published in this repository yet.** The guide below covers the full desktop project; the later source release may have a different scope. Availability varies by app build, operating system, model, account access, and purchased features. The newest development additions are identified below.
 
-## At a glance
+<a id="a-look-around-your-desktop"></a>
+
+## <img src="media/icons/gallery.svg" width="30" height="30" alt=""> A look around your desktop
+
+<table>
+<tr><th align="center">Live2D, right beside you</th><th align="center">3D companions, making themselves at home</th></tr>
+<tr><td align="center"><a href="media/screenshots/desktop-live2d.jpg"><img src="media/screenshots/desktop-live2d.jpg" width="405" alt="Three Live2D companions standing on the desktop above the dock."></a></td><td align="center"><a href="media/screenshots/desktop-3d.jpg"><img src="media/screenshots/desktop-3d.jpg" width="405" alt="Five VRM companions standing, sitting, reading, and resting around the desktop dock."></a></td></tr>
+</table>
+
+<sub>Actual app captures. Click a screenshot to view it larger; the desktop and taskbar framing is preserved.</sub>
+
+<a id="at-a-glance"></a>
+
+## <img src="media/icons/sparkles.svg" width="30" height="30" alt=""> At a glance
 
 | Make them yours | Spend time together | Choose how it works |
 | --- | --- | --- |
@@ -37,9 +51,13 @@ They can react, remember shared moments, notice context you choose to share, and
 | Animation library and VRMA imports | Head pats, food, drinks, props, and ball play | Conversation pace, pause, captions, and privacy controls |
 | Saved characters and templates | Idle activities, reading, resting, and music reactions | Store, inventory, community Workshop, and creator tools |
 
-## Meet your companions
+<a id="meet-your-companions"></a>
+
+## <img src="media/icons/characters.svg" width="30" height="30" alt=""> Meet your companions
 
 ### 3D and Live2D, both at home on your desktop
+
+<p align="center"><img src="media/screenshots/character-library.jpg" width="900" alt="AikoMate character library with 3D and Live2D format controls and several companions on the desktop."></p>
 
 | 3D companions | Live2D companions |
 | --- | --- |
@@ -57,7 +75,7 @@ They can react, remember shared moments, notice context you choose to share, and
 <tr><td align="center"><a href="media/demos/01-petting-live2d.mp4">MP4 version</a></td><td align="center"><a href="media/demos/02-petting-3d.mp4">MP4 version</a></td></tr>
 </table>
 
-### Character Studio
+### <img src="media/icons/studio.svg" width="24" height="24" alt=""> Character Studio
 
 - **Individual identities:** names, personalities, relationship descriptions, and independent character settings.
 - **Your own cast:** create characters manually, from templates, or from owned character models; invite, focus, and remove them from the desktop without deleting their saved identity.
@@ -66,20 +84,15 @@ They can react, remember shared moments, notice context you choose to share, and
 - **Lighting and portraits:** adjust brightness and shadow, preview the character, and regenerate profile pictures with the saved appearance.
 - **Desktop placement:** move and resize companions, lock their position, and use supported multiple-display layouts.
 
-<details>
-<summary><strong>See character selection and personality customization</strong></summary>
-
-<p align="center"><img src="media/demos/07-character-change.gif" width="760" alt="Switching the active character on the desktop."></p>
-
-[Character change — MP4](media/demos/07-character-change.mp4)
-
 <p align="center"><img src="media/screenshots/personality.jpg" width="900" alt="AikoMate Character Studio with the companion's personality and character settings."></p>
 
-</details>
+<a id="conversations-with-personality"></a>
 
-## Conversations with personality
+## <img src="media/icons/conversations.svg" width="30" height="30" alt=""> Conversations with personality
 
-### Text, speech, and a voice of their own
+### <img src="media/icons/voice.svg" width="24" height="24" alt=""> Text, speech, and a voice of their own
+
+<p align="center"><img src="media/screenshots/conversation.jpg" width="900" alt="The Messages panel beside a speaking companion, with the rest of the cast sitting along the desktop dock."></p>
 
 - **Type or speak:** use the Messages panel or microphone input, then read or hear the reply.
 - **Personality-led replies:** character identity, personality, mood, remembered details, and the current exchange help shape how each companion responds.
@@ -92,7 +105,7 @@ They can react, remember shared moments, notice context you choose to share, and
 
 <p align="center"><a href="media/demos/05-talking.mp4">Talking demo — MP4</a></p>
 
-### A cast that can talk together
+### <img src="media/icons/characters.svg" width="24" height="24" alt=""> A cast that can talk together
 
 - Bring several companions onto the desktop and into the same public conversation.
 - Address the group, mention a particular character, or start a private conversation with one companion.
@@ -105,11 +118,13 @@ They can react, remember shared moments, notice context you choose to share, and
 
 <p align="center"><a href="media/demos/06-group-chat.mp4">Group conversation — MP4</a></p>
 
-### Proactive companionship
+### <img src="media/icons/sparkles.svg" width="24" height="24" alt=""> Proactive companionship
 
 Let companions start a conversation or react to a relevant opening without typing a new invitation each time. Choose a quieter, balanced, or more talkative pace, set a custom interval, or switch proactive messages off. Characters can decline an opening, and requests for quiet remain meaningful.
 
-## Memories, moods, and relationships
+<a id="memories-moods-and-relationships"></a>
+
+## <img src="media/icons/memory.svg" width="30" height="30" alt=""> Memories, moods, and relationships
 
 AikoMate's current character-owned memory system gives each companion their own continuity.
 
@@ -121,14 +136,11 @@ AikoMate's current character-owned memory system gives each companion their own 
 - **Relationship progress:** stages, points, daily affection streaks and multipliers, recent memories, a seven-day activity view, and daily interaction goals.
 - **Time together:** track messages, replies, accepted gifts, head pats, memories, and time spent with each companion.
 
-<details>
-<summary><strong>See the relationship dashboard</strong></summary>
-
 <p align="center"><img src="media/screenshots/relationships.jpg" width="900" alt="AikoMate relationship dashboard showing a companion's relationship stage, recent activity, and interaction statistics."></p>
 
-</details>
+<a id="a-little-life-between-messages"></a>
 
-## A little life between messages
+## <img src="media/icons/care.svg" width="30" height="30" alt=""> A little life between messages
 
 - **Head pats and touch reactions** for supported 3D and Live2D companions.
 - **Food and drinks**, with character reactions and supported group responses when someone receives a treat.
@@ -146,7 +158,14 @@ AikoMate's current character-owned memory system gives each companion their own 
 <tr><td align="center"><a href="media/demos/03-eating.mp4">MP4 version</a></td><td align="center"><a href="media/demos/04-volleyball.mp4">MP4 version</a></td></tr>
 </table>
 
-## Choose your AI and voice
+<table>
+<tr><th align="center">Expressions & reactions</th><th align="center">Music & movement</th></tr>
+<tr><td align="center"><a href="media/screenshots/expressions.jpg"><img src="media/screenshots/expressions.jpg" width="405" alt="Several VRM companions using expressive poses and reactions on the desktop."></a></td><td align="center"><a href="media/screenshots/music.jpg"><img src="media/screenshots/music.jpg" width="405" alt="A cast of VRM companions posing and moving together on the desktop."></a></td></tr>
+</table>
+
+<a id="choose-your-ai-and-voice"></a>
+
+## <img src="media/icons/ai.svg" width="30" height="30" alt=""> Choose your AI and voice
 
 The language model and speech engine can be selected independently. You can use a managed setup, run supported models locally, or connect supported hosted services with your own API keys.
 
@@ -160,7 +179,7 @@ The language model and speech engine can be selected independently. You can use 
 | **Microphone transcription** | Local **Faster Whisper** and the configured Cloud input path. |
 | **Reference-audio voices** | Supported **Pocket TTS** voice creation from reference audio; other voice options depend on the selected provider. |
 
-### AI Studio and model management
+### <img src="media/icons/ai.svg" width="24" height="24" alt=""> AI Studio and model management
 
 - Select Cloud or Local AI and configure the chat and speech providers.
 - Use the local setup flow to install or repair supported local components.
@@ -171,14 +190,16 @@ The language model and speech engine can be selected independently. You can use 
 
 **Availability:** local models need downloads, setup, disk space, and suitable hardware. Hosted providers require internet access and their own API access/charges. The managed desktop app's Local AI Mode is an account/entitlement-controlled feature; selecting it does not by itself mean the commercial app is an account-free distribution. Speech languages, vision, reasoning options, and voice cloning depend on the engine and model.
 
-<details>
-<summary><strong>See AI Studio</strong></summary>
-
 <p align="center"><img src="media/screenshots/ai-studio.jpg" width="900" alt="AikoMate AI Studio with language-model, speech, and local runtime settings."></p>
 
-</details>
+<table>
+<tr><th align="center">Choose your speech engine</th><th align="center">Find their voice</th></tr>
+<tr><td align="center"><a href="media/screenshots/local-voices.jpg"><img src="media/screenshots/local-voices.jpg" width="405" alt="Voice settings showing ElevenLabs, Kokoro, Pocket TTS, and Fish Audio choices alongside screen-sharing controls."></a></td><td align="center"><a href="media/screenshots/voice-catalog.jpg"><img src="media/screenshots/voice-catalog.jpg" width="405" alt="AikoMate voice catalog with language filters, voice descriptions, and sample preview controls."></a></td></tr>
+</table>
 
-## Desktop Vision and optional awareness
+<a id="desktop-vision-and-optional-awareness"></a>
+
+## <img src="media/icons/vision.svg" width="30" height="30" alt=""> Desktop Vision and optional awareness
 
 ### Show what you choose
 
@@ -195,21 +216,20 @@ The newest desktop work adds two independently optional settings:
 
 Both settings default to off. Raw activity observations are temporary and are not saved as an app-usage or browsing-history log; ordinary spoken comments can still appear in conversation history. Cloud and BYOK configurations send the relevant shared context to the selected provider. Native permissions and packaged-build availability remain build-specific.
 
-## Animation library and creator tools
+<a id="animation-library-and-creator-tools"></a>
+
+## <img src="media/icons/animation.svg" width="30" height="30" alt=""> Animation library and creator tools
 
 - Browse built-in motions and activity animations, with previews and searchable categories.
 - Import compatible **VRMA** animations, preview them on a character, organize animation sets, and enable the movements you want to use.
 - Use the linked **[AikoMate Animation Editor](https://aikomate.com/animation-editor)** to pose VRM characters, work with keyframe animation, and add expressions. Editor access is a separate product entitlement where applicable.
 - Regenerate character portraits and reuse saved character templates.
 
-<details>
-<summary><strong>See the animation library</strong></summary>
-
 <p align="center"><img src="media/screenshots/animation-library.jpg" width="900" alt="AikoMate's animation library with motion previews and categories."></p>
 
-</details>
+<a id="store-inventory-and-community"></a>
 
-## Store, inventory, and community
+## <img src="media/icons/store.svg" width="30" height="30" alt=""> Store, inventory, and community
 
 - **Character and item catalog:** browse supported characters, props, consumables, and product offers, then manage owned items in the inventory.
 - **Independent characters from owned models:** create another companion from the same owned model without replacing an existing character's personality or saved identity.
@@ -222,7 +242,11 @@ Both settings default to off. Raw activity observations are temporary and are no
 - **Steam achievements** in the Steam edition for supported companion and interaction milestones.
 - **Community and support:** links to the website, Discord, videos, project updates, and in-app feedback.
 
-## Everyday controls
+<a id="everyday-controls"></a>
+
+## <img src="media/icons/settings.svg" width="30" height="30" alt=""> Everyday controls
+
+<p align="center"><img src="media/screenshots/home.jpg" width="900" alt="AikoMate Home showing Cloud and Local AI choices, 3D and Live2D modes, and saved companions."></p>
 
 - A guided **character → personality → voice** setup for both 3D and Live2D.
 - An optional guided tour, contextual exploration tips, and the ability to replay setup or the tour.
@@ -231,7 +255,9 @@ Both settings default to off. Raw activity observations are temporary and are no
 - Permission controls for microphone, screen, selected files, and optional desktop/browser context.
 - Pause or disable proactive conversation, tune group chatter, and choose when to share visual context.
 
-## Latest desktop development
+<a id="latest-desktop-development"></a>
+
+## <img src="media/icons/updates.svg" width="30" height="30" alt=""> Latest desktop development
 
 These additions are present in the current development project and may arrive in packaged/store builds at different times:
 
@@ -244,7 +270,18 @@ These additions are present in the current development project and may arrive in
 | **Context-aware companionship** | Independent app/browser awareness controls and revised proactive conversation scheduling. |
 | **Conversation improvements** | Personality-led speaker participation, private/group separation, interruptions, speaker-following captions, and stronger character memory isolation. |
 
-## Demo gallery
+<a id="demo-gallery"></a>
+
+## <img src="media/icons/demos.svg" width="30" height="30" alt=""> Demo gallery
+
+<details>
+<summary><strong>Watch a character change</strong></summary>
+
+<p align="center"><img src="media/demos/07-character-change.gif" width="760" alt="Switching the active character on the desktop."></p>
+
+[Character change — MP4](media/demos/07-character-change.mp4)
+
+</details>
 
 All seven prepared clips are available as looping GIFs above and as MP4 files:
 
@@ -258,9 +295,11 @@ All seven prepared clips are available as looping GIFs above and as MP4 files:
 | Group conversation | [GIF](media/demos/06-group-chat.gif) | [MP4](media/demos/06-group-chat.mp4) |
 | Character switching | [GIF](media/demos/07-character-change.gif) | [MP4](media/demos/07-character-change.mp4) |
 
-Clips are trimmed and muted for a quick demonstration. The talking clip plays at **1.4× speed**; selection/loading delays were removed from the character-change clip. These are product demonstrations, not performance benchmarks. Some expanded screenshots show an earlier UI revision than the newest features described here.
+Clips are trimmed and muted for a quick demonstration. The talking clip plays at **1.4× speed**; selection/loading delays were removed from the character-change clip. These are product demonstrations, not performance benchmarks. Some screenshots show an earlier UI revision than the newest features described here.
 
-## Project status
+<a id="project-status"></a>
+
+## <img src="media/icons/status.svg" width="30" height="30" alt=""> Project status
 
 This repository currently contains **the README and presentation media only**. No application source, model packages, API keys, local profiles, or installers are included. GitHub Pages remains unpublished.
 

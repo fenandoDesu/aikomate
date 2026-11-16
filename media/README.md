@@ -6,6 +6,7 @@ This directory contains only the project owner's approved promotional artwork, p
 - `art/desktop-companions.png`: the approved main artwork with the desktop taskbar preserved.
 - `screenshots/`: resized copies of the supplied app captures, with their full framing preserved. Some captures predate the latest UI changes.
 - `demos/*.mp4`: the seven previously approved trimmed, muted loops.
+- `icons/*.svg`: styled Lucide icons; their ISC and applicable Feather/MIT notices are retained in [`icons/LICENSE.txt`](icons/LICENSE.txt).
 - `demos/*.gif`: 10 fps previews derived from those loops. GIFs retain the prepared timing; the talking clip uses 1.4× playback.
 
-These materials are supplied for this project's presentation. No additional copyright or trademark license is granted. Character/model/SDK/animation/voice rights remain with their respective owners; this showcase does not distribute the underlying models or SDKs. Contact the project owner for permission to reuse the branding or recordings elsewhere.
+Except for the separately licensed Lucide icons, these materials are supplied for this project's presentation and no additional copyright or trademark license is granted. Character/model/SDK/animation/voice rights remain with their respective owners; this showcase does not distribute the underlying models or SDKs. Contact the project owner for permission to reuse the branding or recordings elsewhere.
